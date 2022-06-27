@@ -11,7 +11,7 @@ In addition, we added the final report.
 
 The scratch contains data on the geographical area in which the simulation is carried out.
 
-The directory Final Simulation is mainly composed by the following files:
+The directory Final_Simulation is mainly composed by the following files:
   - setrun.py script which contains the code in charge of setting the parameters of the simulation
   - maketopo.py script which contains the code in charge of creating the fault
   - setplot.py script which contains the code to generate the different plots
