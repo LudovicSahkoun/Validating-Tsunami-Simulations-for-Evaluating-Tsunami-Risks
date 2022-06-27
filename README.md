@@ -1,11 +1,11 @@
 # Validating-Tsunami-Simulations-for-Evaluating-Tsunami-Risks
 Semester project
 
-##Introduction
+## Introduction
 
 
-##Structure of the repository
+## Structure of the repository
 
 
-##How to run the simulation
+## How to run the simulation
 
