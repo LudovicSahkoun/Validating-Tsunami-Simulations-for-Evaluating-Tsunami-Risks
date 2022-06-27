@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document><name>dtopo_NetLogo.kml</name>
+
+<Style id="Path">
+<LineStyle><color>FF8888FF</color><width>3</width></LineStyle>
+<PolyStyle><color>00000000</color></PolyStyle>
+</Style>
+<Placemark><name>dtopo_NetLogo</name>
+<description>  x1 = 7.1, x2 = 7.79
+  y1 = 43.35, y2 = 43.86</description>
+<styleUrl>#Path</styleUrl>
+<Polygon>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<outerBoundaryIs><LinearRing><coordinates>
+
+7.100000000,43.350000000,0.000000000
+7.790000000,43.350000000,0.000000000
+7.790000000,43.860000000,0.000000000
+7.100000000,43.860000000,0.000000000
+7.100000000,43.350000000,0.000000000
+
+</coordinates></LinearRing></outerBoundaryIs>
+</Polygon>
+</Placemark>
+
+</Document>
+</kml>
