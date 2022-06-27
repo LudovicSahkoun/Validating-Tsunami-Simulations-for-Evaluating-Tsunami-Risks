@@ -1,5 +1,5 @@
-# Validating-Tsunami-Simulations-for-Evaluating-Tsunami-Risks
-Semester project by Ludovic Sahkoun & Matthieu Lelarget (EURECOM)
+# Validating Tsunami Simulations for Evaluating Tsunami Risks
+Ludovic Sahkoun & Matthieu Lelarget (EURECOM)
 
 ## Introduction
 Folder containing the code of the semester project: Validating Tsunami Simulations for Evaluating Tsunami Risks.
