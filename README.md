@@ -15,8 +15,8 @@ The directory Final_Simulation is mainly composed by the following files:
   - setrun.py script which contains the code in charge of setting the parameters of the simulation
   - maketopo.py script which contains the code in charge of creating the fault
   - setplot.py script which contains the code to generate the different plots
-  - _plots_ directory which contains all the resulting plots (empty before running the simulation)
-  - _output_ directory which contains all the output files (empty before running the simulation)
+  - _plots_ directory which contains all the resulting plots (created after running the simulation)
+  - _output_ directory which contains all the output files (created after running the simulation)
 
 
 ## How to run the simulation
@@ -25,4 +25,5 @@ To run the simulation follow these steps:
   2. Execute the command _make new_
   3. Execute the command _make all_
 
-
+## Operating System used
+Ubuntu (64-bit) 20.04
