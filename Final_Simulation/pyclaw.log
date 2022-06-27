@@ -1,0 +1,17 @@
+2022-06-27 16:53:19,819 pyclaw.fileio INFO CLAW: 351 - Read in solution for time t=0.0
+2022-06-27 16:53:22,747 pyclaw.fileio INFO CLAW: 351 - Read in solution for time t=900.0
+2022-06-27 16:53:25,775 pyclaw.fileio INFO CLAW: 351 - Read in solution for time t=1800.0
+2022-06-27 16:53:28,787 pyclaw.fileio INFO CLAW: 351 - Read in solution for time t=2700.0
+2022-06-27 16:53:31,858 pyclaw.fileio INFO CLAW: 351 - Read in solution for time t=3600.0
+2022-06-27 16:53:34,873 pyclaw.fileio INFO CLAW: 351 - Read in solution for time t=4500.0
+2022-06-27 16:53:37,886 pyclaw.fileio INFO CLAW: 351 - Read in solution for time t=5400.0
+2022-06-27 16:53:41,022 pyclaw.fileio INFO CLAW: 351 - Read in solution for time t=6300.0
+2022-06-27 16:53:44,092 pyclaw.fileio INFO CLAW: 351 - Read in solution for time t=7200.0
+2022-06-27 16:53:47,121 pyclaw.fileio INFO CLAW: 351 - Read in solution for time t=8100.0
+2022-06-27 16:53:50,126 pyclaw.fileio INFO CLAW: 351 - Read in solution for time t=9000.0
+2022-06-27 16:53:53,122 pyclaw.fileio INFO CLAW: 351 - Read in solution for time t=9900.0
+2022-06-27 16:53:56,134 pyclaw.fileio INFO CLAW: 351 - Read in solution for time t=10800.0
+2022-06-27 16:53:59,132 pyclaw.fileio INFO CLAW: 351 - Read in solution for time t=11700.0
+2022-06-27 16:54:02,137 pyclaw.fileio INFO CLAW: 351 - Read in solution for time t=12600.0
+2022-06-27 16:54:05,138 pyclaw.fileio INFO CLAW: 351 - Read in solution for time t=13500.0
+2022-06-27 16:54:08,250 pyclaw.fileio INFO CLAW: 351 - Read in solution for time t=14400.0
